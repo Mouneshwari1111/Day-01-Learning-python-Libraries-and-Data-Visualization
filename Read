@@ -1,0 +1,5 @@
+#Day 01 – Starting My Data Science & ML Journey
+
+Today marks the first step in my 30-day learning journey in Data Science and Analytics using Python and Machine Learning. I focused on understanding core libraries and functions. I learned how to import key libraries like pandas, numpy, seaborn, and matplotlib. I also practiced loading a real-world dataset from scikit-learn (California Housing dataset) into a Pandas DataFrame.
+After loading the data, I explored numerical features by visualizing distributions with histograms, KDE curves, and box plots. I also applied the IQR (Interquartile Range) method to detect outliers. Finally, I reviewed summary statistics to better understand the dataset.
+Key lesson: Before building any machine learning model, it’s crucial to deeply understand your data. This is just the beginning—I'm excited for what’s ahead in the next 29 days!
